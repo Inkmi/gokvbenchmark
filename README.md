@@ -16,6 +16,9 @@
 - [rosedb](https://github.com/flower-corp/rosedb)
 - [badger](https://github.com/dgraph-io/badger)
 - [pebble](https://github.com/cockroachdb/pebble)
+- [lotusdb](https://github.com/lotusdblabs/lotusdb)
+- [pogreb](https://github.com/akrylysov/pogreb)
+- [buntdb](https://github.com/tidwall/buntdb)
 
 ## Results
 
