@@ -2,9 +2,10 @@
 
 **This is a work in progress, numbers are not final. We'd love to hear your feedback on how to optimize the code**
 
-Forked from [Contrast Benchmark](https://github.com/ByteStorage/contrast-benchmark)
+## Test
 
-Refactored towards a structure more like [Kvbench](https://github.com/smallnest/kvbench)
+- key 16 bytes (like UUID)
+- value 100 bytes (e.g. Email address + password)
 
 ## Test database:
 
@@ -47,3 +48,9 @@ Benchmark/ROSEDB_1000000x_100b_nofsync_Get               1000000              38
 PASS
 ok      kvengines       156.768s
 ```
+
+## Note
+
+Forked from [Contrast Benchmark](https://github.com/ByteStorage/contrast-benchmark)
+
+Refactored towards a structure more like [Kvbench](https://github.com/smallnest/kvbench)
