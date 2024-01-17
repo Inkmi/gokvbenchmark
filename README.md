@@ -47,4 +47,3 @@ Benchmark/ROSEDB_1000000x_100b_nofsync_Get               1000000              38
 PASS
 ok      kvengines       156.768s
 ```
-cd
